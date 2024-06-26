@@ -2,7 +2,9 @@
 [![GitHub license](https://img.shields.io/github/license/vickyphang/ha-mongo-cluster)](https://github.com/vickyphang/ha-mongo-cluster/blob/main/LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/vickyphang/ha-mongo-cluster)
 
-The **MongoDB Community Kubernetes Operator** is a Custom Resource Definition and a controller.
+**Kubernetes Operators** are application-specific controllers that extend the Kubernetes API to create, configure, and manage instances of stateful applications such as databases. Using the **MongoDB Kubernetes Operator**, you have full control over your MongoDB deployment from a single Kubernetes control plane, with a consistent experience across different deployment environments.
+
+The `Kubernetes Operator` manages the typical lifecycle events for a `MongoDB cluster`: provisioning storage and computing power, configuring network connections, setting up users, and changing these settings as needed.
 
 ### Prerequisites:
 - Kubernetes cluster
