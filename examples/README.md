@@ -3,7 +3,7 @@
 
 > There are stil many typos, like config <-> configsrv
 
-<p align="center"> <img src="images/topology.png"> </p>
+<p align="center"> <img src="/images/topology.png"> </p>
 
 ### 1. Deploy all resource
 - Deploy mongos router
